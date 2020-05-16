@@ -1,0 +1,129 @@
+h1 { 
+    color:black;
+    font-weight: bold;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+h2 { 
+    color: indianred;
+    font-weight: bold;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+h3 { 
+    color: cadetblue;
+    font-weight: bold;
+    padding: 0 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+h4 { 
+    color:black;
+    font-weight: bold;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+h5 { 
+    color:black;
+    font-weight: bold;
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+h6 { 
+    color:black;
+    font-weight: bold;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+p {
+    color: black;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+
+
+img {
+    display: block;
+    border: solid black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    
+}
+    body {
+    width: 1500px;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+
+
+html, body {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+*  {
+    margin:0;
+    padding: 0; 
+}
+
+#Banner {
+    background: black;
+    height: 150px;
+}
+#Banner p {
+color: white;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 4em;
+padding: 0.6em 0.4em 0 0;
+}
+
+#Navigation {
+    background-color: beige;
+    padding-left: 0em;
+    text-align: center;
+}
+
+nav {background-color:seashell}
+nav ul {padding: 0;}
+nav li {
+    list-style-type: none;
+    display: inline-block;
+    height: 1.5em;
+    padding: 0 4em;
+    line-height: 1.5em;
+    border-right: black 1px solid;
+}
+
+nav a {color: black; text-decoration: none;}
+nav a:hover {text-decoration: underline;}
+
+#schatten {
+    background: black;
+    height: 30px;
+}
+
+#inhalt {
+    background-color: azure;
+    padding: 2em;
+}
+
+#inhalt h1, h2, h3, h4, h5, h6, p, ul {
+    padding-bottom: .7em; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+#inhalt ul {
+    padding-left: 2em;
+}
+
+footer {
+    background:bisque;
+    text-align: center;
+    height: 1.5em;
+    padding: 0 1em;
+    line-height: 1.5em; 
+}
+
+   
